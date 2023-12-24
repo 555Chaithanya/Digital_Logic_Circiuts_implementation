@@ -1,0 +1,11 @@
+1. Start the simulator as directed. For more detail please refer to the manual for using the        simulator 
+2. The simulator supports 5-valued logic 
+3. To add the logic components to the editor or canvas (where you build the circuit) select any component and click on the position of the canvas where you want to add the component 
+4. The pin configuration is shown when you select the component and press the 'show pinconfig' button in the left toolbar or whenever the mouse is hovered on any canned component of palette 5. To connect any two components select the connection tool of palette, and then click on the source terminal and then click on the the target terminal 
+6. To move any component select the component using the selection tool and drag the component to the desired position 
+7. To give a toggle input to the circuit, use 'Bit Switch' which will toggle its value with a double click 
+8. Use 'Bit Display' component to see any single bit value. 'Digital Display' will show the output in digital format 
+9. Undo/redo, delete, zoom in/zoom out, and other functionalities have been given in the top toolbar for ease of circuit building 
+10. Use start/stop clock pulse to start or stop the clock input of the circuit. Clock period can be set from the given 'set clock' button in the left toolbar 11. Use 'plot graph' button to see input-output wave forms 12. Users can save their circuits with .logic extension and reuse them 
+13. After building the circuit press the simulate button in the top toolbar to get the output 
+14. If the circuit contains a clock pulse input, then the 'start clock' button will start the simulation of the whole circuit. Then there is no need to again press the 'simulate' button
